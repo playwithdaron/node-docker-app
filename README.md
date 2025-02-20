@@ -1,7 +1,6 @@
 # Random User API Mini Project
 
 ## Overview
-
 This mini project utilizes the Random User API to fetch and display user data. Users can view a paginated table of random users, click on a user's name to see more details, and navigate between pages. The project is built with React and Redux for state management.
 
 ## Features
